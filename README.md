@@ -1,2 +1,2 @@
 # Informational-Page
-Website built using ReactJS about me
+Web page about me
