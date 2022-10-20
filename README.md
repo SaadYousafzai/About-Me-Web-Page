@@ -8,3 +8,4 @@ Also doubles as personal website for blog posts.
 5) Where to Find Me
 6) In the Works
 7) Contact
+ 
